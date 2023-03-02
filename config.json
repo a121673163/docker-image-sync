@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/metrics-server/metrics-server": "a121673163/metrics-server"
+        "k8s.gcr.io/pause": "a121673163/pause"
     }
 }
