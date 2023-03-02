@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/ingress-nginx/controller": "a121673163/ingress-nginx-controller"
+        "k8s.gcr.io/git-sync/git-sync": "a121673163/git-sync"
     }
 }
