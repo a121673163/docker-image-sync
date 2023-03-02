@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "gcr.io/kaniko-project/executor:debug,latest": "a121673163/kaniko-executor"
+        "k8s.gcr.io/ingress-nginx/controller": "a121673163/ingress-nginx-controller"
     }
 }
