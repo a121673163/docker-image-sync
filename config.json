@@ -6,8 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/etcd": "a121673163/etcd",
-        "k8s.gcr.io/ingress-nginx/controller": "a121673163/ingress-nginx-controller",
-        "k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner": "a121673163/nfs-subdir-external-provisioner"      
+        "k8s.gcr.io/kube-scheduler": "a121673163/kube-scheduler"
     }
 }
