@@ -7,6 +7,6 @@
     },
     "images": {
         "k8s.gcr.io/kube-scheduler": "a121673163/kube-scheduler",
-        "k8s.gcr.io/etcd": "a121673163/etcd
+        "k8s.gcr.io/etcd": "a121673163/etcd"
     }
 }
