@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "coredns/coredns": "a121673163/coredns"
+        "k8s.gcr.io/metrics-server/metrics-server": "a121673163/metrics-server"
     }
 }
