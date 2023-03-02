@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/kube-state-metrics/kube-state-metrics": "a121673163/kube-state-metrics"
+        "gcr.io/kaniko-project/executor:debug,latest": "a121673163/kaniko-executor"
     }
 }
