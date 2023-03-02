@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "quay.io/coreos/kube-rbac-proxy": "a121673163/kube-rbac-proxy"
+        "k8s.gcr.io/prometheus-adapter/prometheus-adapter": "a121673163/prometheus-adapter"
     }
 }
