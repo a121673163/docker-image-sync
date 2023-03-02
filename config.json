@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/git-sync/git-sync": "a121673163/git-sync"
+        "quay.io/coreos/kube-rbac-proxy": "a121673163/kube-rbac-proxy"
     }
 }
