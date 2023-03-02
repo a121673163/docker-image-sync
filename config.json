@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/pause": "a121673163/pause"
+        "k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner": "a121673163/nfs-subdir-external-provisioner"
     }
 }
