@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner": "a121673163/nfs-subdir-external-provisioner"
+        "k8s.gcr.io/kube-state-metrics/kube-state-metrics": "a121673163/kube-state-metrics"
     }
 }
