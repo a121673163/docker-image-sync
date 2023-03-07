@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "registry.k8s.io/hpa-example": "a121673163/php-hpa"
+        "registry.k8s.io/ingress-nginx/kube-webhook-certgen": "a121673163/kube-webhook-certgen"
     }
 }
