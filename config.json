@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "docker.io/calico/cni": "a121673163/cni"
+        "registry.hub.docker.com/calico/cni": "a121673163/cni"
     }
 }
