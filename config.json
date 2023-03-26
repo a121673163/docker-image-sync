@@ -6,6 +6,6 @@
         }
     },
     "images": {
-        "registry.k8s.io/sig-storage/nfs-subdir-external-provisioner": "a121673163/nfs-subdir-external-provisioner"
+        "docker.io/calico/cni": "a121673163/cni"
     }
 }
