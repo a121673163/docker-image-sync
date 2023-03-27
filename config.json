@@ -17,5 +17,6 @@
         "docker.elastic.co/beats/metricbeat": "a121673163/metricbeat",
         "docker.elastic.co/apm/apm-server": "a121673163/apm-server",
         "docker.elastic.co/app-search/app-search": "a121673163/app-search"
+        
     }
 }
