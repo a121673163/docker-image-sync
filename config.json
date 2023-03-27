@@ -6,12 +6,7 @@
         }
     },
     "images": {
-        "registry.hub.docker.com/calico/kube-controllers": "a121673163/calico-controllers",
-        "registry.hub.docker.com/calico/typha": "a121673163/calico-typha",
-        "registry.hub.docker.com/calico/pod2daemon-flexvol": "a121673163/calico-pod2daemon-flexvol",
-        "registry.hub.docker.com/calico/node": "a121673163/calico-node",
-        "registry.hub.docker.com/calico/cni": "a121673163/calico-cni",
-        "registry.hub.docker.com/metrics-scraper": "a121673163/metrics-scraper",
-        "registry.hub.docker.com/dashboard": "a121673163/dashboard"
+        "registry.hub.docker.com/kubernetesui/metrics-scraper": "a121673163/metrics-scraper",
+        "registry.hub.docker.com/kubernetesui/dashboard": "a121673163/dashboard"
     }
 }
