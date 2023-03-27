@@ -6,7 +6,18 @@
         }
     },
     "images": {
-        "registry.hub.docker.com/kubernetesui/metrics-scraper": "a121673163/metrics-scraper",
-        "registry.hub.docker.com/kubernetesui/dashboard": "a121673163/dashboard"
+        "quay.io/coreos/flannel": "a121673163/flannel",
+        "quay.io/cephcsi/cephcsi": "a121673163/cephcsi",
+        "quay.io/csiaddons/k8s-sidecar": "a121673163/k8s-sidecar",
+        "quay.io/csiaddons/volumereplication-operator": "a121673163/volumereplication-operator",
+        "quay.io/prometheus/prometheus": "a121673163/prometheus",
+        "quay.io/prometheus/prometheus": "a121673163/prometheus",
+        "quay.io/prometheus/alertmanager": "a121673163/alertmanager",
+        "quay.io/prometheus/pushgateway": "a121673163/pushgateway",
+        "quay.io/prometheus/blackbox-exporter": "a121673163/blackbox-exporter",
+        "quay.io/prometheus/node-exporter": "a121673163/node-exporter",
+        "quay.io/prometheus-operator/prometheus-config-reloader": "a121673163/prometheus-config-reloader",
+        "quay.io/prometheus-operator/prometheus-operator": "a121673163/prometheus-operator",
+        "quay.io/ceph/ceph": "a121673163/ceph"
     }
 }
