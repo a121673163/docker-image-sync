@@ -6,18 +6,18 @@
         }
     },
     "images": {
-        "quay.io/coreos/flannel": "a121673163/flannel",
-        "quay.io/cephcsi/cephcsi": "a121673163/cephcsi",
-        "quay.io/csiaddons/k8s-sidecar": "a121673163/k8s-sidecar",
-        "quay.io/csiaddons/volumereplication-operator": "a121673163/volumereplication-operator",
-        "quay.io/prometheus/prometheus": "a121673163/prometheus",
-        "quay.io/prometheus/prometheus": "a121673163/prometheus",
-        "quay.io/prometheus/alertmanager": "a121673163/alertmanager",
-        "quay.io/prometheus/pushgateway": "a121673163/pushgateway",
-        "quay.io/prometheus/blackbox-exporter": "a121673163/blackbox-exporter",
-        "quay.io/prometheus/node-exporter": "a121673163/node-exporter",
-        "quay.io/prometheus-operator/prometheus-config-reloader": "a121673163/prometheus-config-reloader",
-        "quay.io/prometheus-operator/prometheus-operator": "a121673163/prometheus-operator",
-        "quay.io/ceph/ceph": "a121673163/ceph"
+        "quay.io/brancz/kube-rbac-proxy": "a121673163/kube-rbac-proxy",
+        "quay.io/cilium/cilium": "a121673163/cilium",
+        "quay.io/cilium/operator-generic": "a121673163/operator-generic",
+        "quay.io/thanos/thanos": "a121673163/thanos",
+        "quay.io/cilium/certgen": "a121673163/certgen",
+        "quay.io/cilium/hubble-relay": "a121673163/hubble-relay",
+        "quay.io/cilium/hubble-ui-backend": "a121673163/hubble-ui-backend",
+        "quay.io/cilium/hubble-ui": "a121673163/hubble-ui",
+        "quay.io/cilium/cilium-etcd-operator": "a121673163/cilium-etcd-operatorr",
+        "quay.io/cilium/operator": "a121673163/operator",
+        "quay.io/cilium/startup-script": "a121673163/startup-script",
+        "quay.io/cilium/clustermesh-apiserver": "a121673163/clustermesh-apiserver",
+        "quay.io/coreos/etcd": "a121673163/coreos-etcd"
     }
 }
