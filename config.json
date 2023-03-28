@@ -6,17 +6,12 @@
         }
     },
     "images": {
-        "docker.elastic.co/elasticsearch/elasticsearch": "a121673163/elasticsearch",
-        "docker.elastic.co/kibana/kibana": "a121673163/kibana",
-        "docker.elastic.co/logstash/logstash": "a121673163/logstash",
-        "docker.elastic.co/beats/filebeat": "a121673163/filebeat",
-        "docker.elastic.co/beats/heartbeat": "a121673163/heartbeat",
-        "docker.elastic.co/beats/packetbeat": "a121673163/packetbeat",
-        "docker.elastic.co/beats/auditbeat": "a121673163/auditbeat",
-        "docker.elastic.co/beats/journalbeat": "a121673163/journalbeat",
-        "docker.elastic.co/beats/metricbeat": "a121673163/metricbeat",
-        "docker.elastic.co/apm/apm-server": "a121673163/apm-server",
-        "docker.elastic.co/app-search/app-search": "a121673163/app-search"
+        "quay.io/cephcsi/cephcsi": "a121673163/cephcsi",
+        "k8s.gcr.io/sig-storage/csi-node-driver-registrar": "a121673163/csi-node-driver-registrar",
+        "k8s.gcr.io/sig-storage/csi-provisioner": "a121673163/csi-provisioner",
+        "k8s.gcr.io/sig-storage/csi-resizer": "a121673163/csi-resizer",
+        "k8s.gcr.io/sig-storage/csi-snapshotter": "a121673163/csi-snapshotter",
+        "k8s.gcr.io/sig-storage/csi-attacher": "a121673163/csi-attacher"
         
     }
 }
