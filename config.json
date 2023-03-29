@@ -6,7 +6,13 @@
         }
     },
     "images": {
-        "registry.hub.docker.com/rook/ceph": "a121673163/rook-ceph"
+        "quay.io/ceph/ceph": "a121673163/ceph",
+        "quay.io/cephcsi/cephcsi": "a121673163/cephcsi",
+        "k8s.gcr.io/sig-storage/csi-node-driver-registrar": "a121673163/csi-node-driver-registrar",
+        "k8s.gcr.io/sig-storage/csi-provisioner": "a121673163/csi-provisioner",
+        "k8s.gcr.io/sig-storage/csi-resizer": "a121673163/csi-resizer",
+        "k8s.gcr.io/sig-storage/csi-snapshotter": "a121673163/csi-snapshotter",
+        "k8s.gcr.io/sig-storage/csi-attacher": "a121673163/csi-attacher",
         
     }
 }
